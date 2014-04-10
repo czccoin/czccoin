@@ -1,0 +1,4 @@
+czccoin
+=======
+
+Cryptocurrrency - CZC - Czechcoin
